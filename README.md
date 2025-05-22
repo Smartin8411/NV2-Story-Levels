@@ -1,5 +1,2 @@
 # NV2 Dialogue Levels
-Dialogue for 25: take him down assistants (N Story Series Ep 1)
->:-): take him down assistants
-N: (completes the level)
-<:-|
+
